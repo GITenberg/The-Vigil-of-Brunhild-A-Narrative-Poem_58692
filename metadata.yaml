@@ -1,5 +1,8 @@
 _repo: The-Vigil-of-Brunhild-A-Narrative-Poem_58692
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58692-h/images/cover.jpg
 creator:
   author:
     agent_name: Manning, Frederic
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '37355'
     url: http://www.gutenberg.org/2009/agents/37355
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58692#The-Vigil-of-Brunhild-A-Narrative-Poem
 gutenberg_issued: '2019-01-13'
 gutenberg_type: Text
 identifiers:
